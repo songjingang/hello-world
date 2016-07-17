@@ -1,6 +1,6 @@
 # hello-world
 
-Hi everyong,
+Hi everyone,
 
 Welcome to GitHub.
 This is my first time to access GitHub, using own account.
